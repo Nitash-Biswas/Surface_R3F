@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Surface_R3F/static/css/main.db7e420b.css",
+    "main.js": "/Surface_R3F/static/js/main.64da7f6c.js",
+    "static/js/451.b36ebade.chunk.js": "/Surface_R3F/static/js/451.b36ebade.chunk.js",
+    "index.html": "/Surface_R3F/index.html",
+    "main.db7e420b.css.map": "/Surface_R3F/static/css/main.db7e420b.css.map",
+    "main.64da7f6c.js.map": "/Surface_R3F/static/js/main.64da7f6c.js.map",
+    "451.b36ebade.chunk.js.map": "/Surface_R3F/static/js/451.b36ebade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db7e420b.css",
+    "static/js/main.64da7f6c.js"
+  ]
+}
