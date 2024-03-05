@@ -53,8 +53,7 @@ function SpawnSurface() {
 
   /**
    * cleanupAndLoadSurface:
-      Cleans up the existing group, loads the selected model (gltf or predefined),
-      and sets up its properties. Uses loadGltfModel() for loading gltf models.
+      Cleans up the existing group, loads the selected model.
    */
   const cleanupAndLoadSurface = async () => {
     cleanUpGroup(groupRef.current);
